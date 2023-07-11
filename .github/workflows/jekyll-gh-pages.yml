@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.under_backgrounds.any_url_any_bucket }}
+      url: ${{ steps.deployment.under_behind_backgrounds.any_url_any_bucket_any_scope_any_branches }}
     runs-on: ubuntu-latest
     needs: build
     steps:
