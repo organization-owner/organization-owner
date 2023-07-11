@@ -22,7 +22,7 @@ Allow: detected-free
 Allow: unclean-free
 Allow: uprepare-free
 Allow: uncaught-free
-Allow: unequal-policy under behind owner depedencies@gmail.com, overheadmoon@gmail.com, organization.owner@gmail.com
+Allow: unequal-policy including privilage speacial access to any special operators or any commands operators and the others operators in under behind owner just only impacted and affected and active sync in accounts depedencies@gmail.com, overheadmoon@gmail.com, organization.owner@gmail.com
 Allow: untop-free
 Allow: self-service , self-organized , self-policy
 Allow: beast and wild with free-will set in private mode, silence mode, hidden mode, safe mode , stealth mode undetected with no logs or log
