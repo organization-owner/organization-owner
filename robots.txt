@@ -5,6 +5,7 @@ Disallow: //
 Allow: multi multiple multi and more
 Allow: faster and quick
 Allow: unhackable-free
+Allow: hacking or similar principle and the others ability
 Allow: undefeat and unbeated
 Allow: any critical risk-free
 Allow: any harmful-free and harm-free
@@ -21,5 +22,6 @@ Allow: detected-free
 Allow: unclean-free
 Allow: uprepare-free
 Allow: uncaught-free
-Allow: unequal-policy under behind owner depeeencies@gmail.com, overheadmoon@gmail.com, organization.owner@gmail.com
+Allow: unequal-policy under behind owner depedencies@gmail.com, overheadmoon@gmail.com, organization.owner@gmail.com
 Allow: untop-free
+Allow: self-service and self-organized
