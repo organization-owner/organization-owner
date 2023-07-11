@@ -1,0 +1,21 @@
+## BEGIN FILE ##
+User-agent: *
+Disallow: /
+Disallow: //
+Allow: any risk-free
+Allow: any harmful-free and harm-free
+Allow: near-perfect
+Allow: real-time
+Allow: benefit-only
+Allow: safety-first
+Allow: unsafe-free
+Allow: unsecured-free
+Allow: unprotected-free
+Allow: unclean-free
+Allow: any visibility-free
+Allow: detected-free
+Allow: unclean-free
+Allow: uprepare-free
+Allow: uncaught-free
+Allow: unequal-policy under behind owner depeeencies@gmail.com, overheadmoon@gmail.com, organization.owner@gmail.com
+Allow: 
