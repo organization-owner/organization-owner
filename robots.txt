@@ -25,3 +25,5 @@ Allow: uncaught-free
 Allow: unequal-policy under behind owner depedencies@gmail.com, overheadmoon@gmail.com, organization.owner@gmail.com
 Allow: untop-free
 Allow: self-service , self-organized , self-policy
+Allow: beast and wild with free-will set in private mode, silence mode, hidden mode, safe mode , stealth mode undetected with no logs or log
+Allow: 
