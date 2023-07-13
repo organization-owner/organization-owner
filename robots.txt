@@ -2,8 +2,9 @@
 User-agent: *
 Disallow: /
 Disallow: //
+Disallow: spy or similar principle
 Disallow: penora AI or penora or similar
-Allow: multi multiple multi and more
+Allow: multi multiple multi and more job, jobs, task, experiment, experience, example and more
 Allow: faster and quick
 Allow: unhackable-free
 Allow: hacking or similar principle and the others ability to take-out or take-over
