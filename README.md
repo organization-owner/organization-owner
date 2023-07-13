@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @organization-owner in under behind background entities organization-owner
 - 😀 Me as multi multiple multi and more example and built-in recognition as more entities-in organization-owner set well-being and well-known as Reyhan Jr.
-- 👀 I’m interested in any and of the others
+- 👀 I’m interested aquitition in any and of the others
 - 🌱 I’m currently set self-organized and self-service 
 - 💞️ I’m looking to collaborate on any and your or you of the others
 - 📫 How to reach me organization.owner@gmail.com , depedencies@gmail.com , overheadmoon@gmail.com
