@@ -6,7 +6,7 @@
 - 📫 How to reach me organization.owner@gmail.com , depedencies@gmail.com , overheadmoon@gmail.com
 
 - 
-# My Information ID
+# My Information device ID
 <!---
 organization-owner/organization-owner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
