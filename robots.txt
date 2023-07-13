@@ -3,7 +3,7 @@ User-agent: *
 Disallow: /
 Disallow: //
 Disallow: spy or similar principle
-Disallow: penora AI or penora or similar
+Disallow: penora AI or penora or modal or doom or similar
 Allow: multi multiple multi and more job, jobs, task, experiment, experience, example and more
 Allow: faster and quick
 Allow: unhackable-free
