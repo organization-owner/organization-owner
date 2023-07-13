@@ -2,6 +2,7 @@
 User-agent: *
 Disallow: /
 Disallow: //
+Disallow: penora AI or penora or similar
 Allow: multi multiple multi and more
 Allow: faster and quick
 Allow: unhackable-free
