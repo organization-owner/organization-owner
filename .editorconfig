@@ -1,3 +1,5 @@
 root = true
 live = true
 obey_reyhan_jr = true
+forbid_defect_reyhan_jr = true
+stealthty_undetected_mode = true
